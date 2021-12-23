@@ -5,7 +5,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 - ⌛ I'm 21 
 - 🎓 IT student at University of Silesia
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mateusz-penkala-060540209/)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
