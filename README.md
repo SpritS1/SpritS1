@@ -1,13 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mateusz <img height="40" src="https://emoji.gg/assets/emoji/5206-pug-dance.gif"></h1>
 
-<!-- Here are some ideas to get you started:
+I'm a self-taught Front-end Developer and a 2nd year student of Computer Science at the University of Silesia. I've been creating web applications for over a year and I am constantly expanding my skills in this field. I would gladly take my first job or internship as a Front-end Developer 👨🏼‍💻
 
-<!-- - 🔭 I’m currently working on ... -->
-- ⌛ I'm 21 
-- 🎓 IT student at University of Silesia
-- 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mateusz-penkala-060540209/)
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+## Main technologies
 
-<!-- ## Known & Used -->
+- React.js
+- JavaScript
+- CSS / SASS
+- GIT
+- Responsive Web Design
+- HTML
+
+## Currently learning 
+- TypeScript
+- Testing / Jest
+- Figma
+
+## 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mateusz-penkala-060540209/)
+
