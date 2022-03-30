@@ -16,6 +16,7 @@ I would gladly take my first job or internship as a Front-end Developer 👨🏼
 ## Currently learning 
 - TypeScript
 - Testing / Jest
+- Node.js
 - Figma
 
 ## 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mateusz-penkala-060540209/)
