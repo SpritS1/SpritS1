@@ -18,7 +18,7 @@ I would gladly take my first job or internship as a Front-end Developer 👨🏼
 - Testing / Jest
 - Node.js
 - GraphQL
-- Figma
+- Redux
 
 ## 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mateusz-penkala-060540209/)
 
