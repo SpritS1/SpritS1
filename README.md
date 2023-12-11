@@ -5,19 +5,15 @@ I'm a self-taught Front-end Developer and a 3nd year student of Computer Science
 ## Main technologies and skills
 
 - React.js
-- JavaScript
+- JavaScript / TypeScript
 - CSS / SASS
 - C#
-- Blazor
 - Git / Mercurial
 - Responsive Web Design
 - HTML
+- SQL
 
 ## Currently learning 
-- TypeScript
 - Testing / Jest
-- Node.js
-- GraphQL
-- Redux
-
+- Nestj.js
 ## 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mateusz-penkala-060540209/)
