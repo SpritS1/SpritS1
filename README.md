@@ -7,13 +7,15 @@ I'm a self-taught Front-end Developer and a 3nd year student of Computer Science
 - React.js
 - JavaScript / TypeScript
 - CSS / SASS
+- HTML
 - C#
 - Git / Mercurial
 - Responsive Web Design
-- HTML
-- SQL
+- REST API
+- Databases
 
 ## Currently learning 
 - Testing / Jest
 - Nestj.js
+- React Native
 ## 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mateusz-penkala-060540209/)
